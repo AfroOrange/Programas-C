@@ -1,0 +1,24 @@
+Para compilar:
+
+	gcc -o {"nombre.exe"} {"nombre.c"}
+
+--------------------------------------------- 
+
+Para ejecutar: 
+
+	nombre.exe
+
+--------------------------------------------
+
+Para abrir el editor de texto WSL: 
+
+	vim {nombre del archivo a crear}
+
+Para salir:
+
+	esc + ":wq"
+
+
+Para ejecutar el archivo después de compilar:
+	
+	./{nombre del archivo}
